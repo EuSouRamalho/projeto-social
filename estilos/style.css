@@ -22,7 +22,6 @@ body{
 main{
     position: relative;
     height: 100vh;
-   
 }
 
 section#telefone{
@@ -30,7 +29,6 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
 
     height: 627px;
     width: 311px;
